@@ -10,7 +10,7 @@
 			<div class="col-md-4" style="text-align:justify;float: right;">
 				<h3>Liên hệ</h3>
 				<h4>Số điện thoại: 0869996807</h4>
-				<a href="www.facebook.com/dichvu247.site"><h4>Facebook</h4></a>
+				<h4>Facebook :www.facebook.com/dichvu247.site</h4>
 				<a href="phanhoi.php"><h4>Trang phản hồi</h4></a>
 			</div>
 		</div>
